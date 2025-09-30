@@ -1,11 +1,8 @@
-<<<<<<< HEAD
 # MAD Project – Smart Expense Splitter App
 
 This repository contains **Milestone 0** of my Mobile Application Development (MAD) individual project.  
 The project idea, problem statement, and proposed solution are documented in [Idea.md](./Idea.md).
 
-
-=======
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
