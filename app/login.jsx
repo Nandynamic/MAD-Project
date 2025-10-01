@@ -37,12 +37,33 @@ export default function LoginScreen() {
 }
 
 const styles = StyleSheet.create({
-  container: { padding: 16, gap: 12, flex: 1, justifyContent: 'center' },
-  input: { borderWidth: 1, borderColor: '#ddd', borderRadius: 10, padding: 12 },
-  button: { backgroundColor: '#007AFF', paddingVertical: 12, borderRadius: 10, alignItems: 'center' },
-  buttonText: { color: '#fff', fontWeight: '700' },
-  disabled: { opacity: 0.7 },
-  google: { backgroundColor: '#fff', borderWidth: 1, borderColor: '#ddd', paddingVertical: 12, borderRadius: 10, alignItems: 'center' },
+  container: { 
+    padding: 16, 
+    gap: 12, 
+    flex: 1, 
+    justifyContent: 'center' },
+  input: { 
+    borderWidth: 1, 
+    borderColor: '#ddd',
+    borderRadius: 10, 
+    padding: 12 },
+  button: { 
+    backgroundColor: '#007AFF',
+    paddingVertical: 12, 
+    borderRadius: 10, 
+    alignItems: 'center' },
+  buttonText: {
+    color: '#fff', 
+    fontWeight: '700' },
+  disabled: { 
+    opacity: 0.7 },
+  google: { 
+    backgroundColor: '#fff',
+    borderWidth: 1,
+    borderColor: '#ddd',
+    paddingVertical: 12, 
+    borderRadius: 10, 
+    alignItems: 'center' },
   googleText: { color: '#111', fontWeight: '600' },
 });
 
