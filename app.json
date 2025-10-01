@@ -51,8 +51,7 @@
         "iosClientId": "YOUR_IOS_CLIENT_ID",
         "androidClientId": "YOUR_ANDROID_CLIENT_ID"
       }
-    },
-    "experiments": {
+    },"experiments": {
       "typedRoutes": true,
       "reactCompiler": true
     }
