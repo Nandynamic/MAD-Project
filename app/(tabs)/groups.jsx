@@ -53,7 +53,7 @@ export default function GroupsScreen() {
                 }}
                 style={styles.deleteBtn}
               >
-                <Text style={styles.deleteText}>Delete</Text>
+              <Text style={styles.deleteText}>Delete</Text>
               </Pressable>
             </View>
           </View>
