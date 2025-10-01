@@ -28,8 +28,7 @@ export default function TabLayout() {
       />
       <Tabs.Screen
         name="add-expense"
-        options={{
-          title: 'Add',tabBarIcon: ({ color }) => <IconSymbol size={28} name="plus.app.fill" color={color} />,
+        options={{title: 'Add',tabBarIcon: ({ color }) => <IconSymbol size={28} name="plus.app.fill" color={color} />,
         }}
       />
       <Tabs.Screen
