@@ -37,8 +37,7 @@ const styles = StyleSheet.create({
   container: { 
     padding: 16, 
     gap: 12, 
-    flex: 1, 
-    justifyContent: 'center' },
+    flex: 1, justifyContent: 'center' },
   input: { 
     borderWidth: 1, 
     borderColor: '#ddd', 
