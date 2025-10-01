@@ -34,8 +34,16 @@ export default function SignupScreen() {
 }
 
 const styles = StyleSheet.create({
-  container: { padding: 16, gap: 12, flex: 1, justifyContent: 'center' },
-  input: { borderWidth: 1, borderColor: '#ddd', borderRadius: 10, padding: 12 },
+  container: { 
+    padding: 16, 
+    gap: 12, 
+    flex: 1, 
+    justifyContent: 'center' },
+  input: { 
+    borderWidth: 1, 
+    borderColor: '#ddd', 
+    borderRadius: 10, 
+    padding: 12 },
   button: { backgroundColor: '#34C759', paddingVertical: 12, borderRadius: 10, alignItems: 'center' },
   buttonText: { color: '#fff', fontWeight: '700' },
   disabled: { opacity: 0.7 },
