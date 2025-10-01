@@ -105,7 +105,7 @@ export default function AddExpenseScreen() {
             )}
           </View>
         </>
-      ) : null}
+      ): null}
     </ThemedView>
   );
 }
