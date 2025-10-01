@@ -29,15 +29,13 @@ export default function TabLayout() {
       <Tabs.Screen
         name="add-expense"
         options={{
-          title: 'Add',
-          tabBarIcon: ({ color }) => <IconSymbol size={28} name="plus.app.fill" color={color} />,
+          title: 'Add',tabBarIcon: ({ color }) => <IconSymbol size={28} name="plus.app.fill" color={color} />,
         }}
       />
       <Tabs.Screen
         name="profile"
         options={{
-          title: 'Profile',
-          tabBarIcon: ({ color }) => <IconSymbol size={28} name="person.crop.circle" color={color} />,
+          title: 'Profile',tabBarIcon: ({ color }) => <IconSymbol size={28} name="person.crop.circle" color={color} />,
         }}
       />
       <Tabs.Screen
