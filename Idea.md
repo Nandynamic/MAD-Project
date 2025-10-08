@@ -21,7 +21,7 @@ A mobile application built with React Native that allows users to add group expe
 - Option to export/share settlement report  
 
 ## 6. Target Users / Audience
-Students, roommates and friends who share group expenses (trips, rent, food, events).  
+Students, roommates and friends who share group expenses (trips, rent, food, events). 
 
 ## 7. Technology Stack
 - **Frontend:** React Native (with React Navigation)  
